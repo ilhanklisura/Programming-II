@@ -6,4 +6,5 @@ set(CMAKE_CXX_STANDARD 17)
 add_executable(test lab1.cpp
         lab2.cpp
         lab3.cpp
+        lab4.cpp
 )

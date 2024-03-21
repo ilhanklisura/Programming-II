@@ -51,19 +51,25 @@ build cmake_object_order_depends_target_test: phony || CMakeFiles/test.dir
 
 build CMakeFiles/test.dir/lab1.cpp.o: CXX_COMPILER__test_unscanned_Debug /Users/ilhanklisura/CLionProjects/test/lab1.cpp || cmake_object_order_depends_target_test
   DEP_FILE = CMakeFiles/test.dir/lab1.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/test.dir
   OBJECT_FILE_DIR = CMakeFiles/test.dir
 
 build CMakeFiles/test.dir/lab2.cpp.o: CXX_COMPILER__test_unscanned_Debug /Users/ilhanklisura/CLionProjects/test/lab2.cpp || cmake_object_order_depends_target_test
   DEP_FILE = CMakeFiles/test.dir/lab2.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/test.dir
   OBJECT_FILE_DIR = CMakeFiles/test.dir
 
 build CMakeFiles/test.dir/lab3.cpp.o: CXX_COMPILER__test_unscanned_Debug /Users/ilhanklisura/CLionProjects/test/lab3.cpp || cmake_object_order_depends_target_test
   DEP_FILE = CMakeFiles/test.dir/lab3.cpp.o.d
-  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/test.dir
+  OBJECT_FILE_DIR = CMakeFiles/test.dir
+
+build CMakeFiles/test.dir/lab4.cpp.o: CXX_COMPILER__test_unscanned_Debug /Users/ilhanklisura/CLionProjects/test/lab4.cpp || cmake_object_order_depends_target_test
+  DEP_FILE = CMakeFiles/test.dir/lab4.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/test.dir
   OBJECT_FILE_DIR = CMakeFiles/test.dir
 
@@ -75,8 +81,8 @@ build CMakeFiles/test.dir/lab3.cpp.o: CXX_COMPILER__test_unscanned_Debug /Users/
 #############################################
 # Link the executable test
 
-build test: CXX_EXECUTABLE_LINKER__test_Debug CMakeFiles/test.dir/lab1.cpp.o CMakeFiles/test.dir/lab2.cpp.o CMakeFiles/test.dir/lab3.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
+build test: CXX_EXECUTABLE_LINKER__test_Debug CMakeFiles/test.dir/lab1.cpp.o CMakeFiles/test.dir/lab2.cpp.o CMakeFiles/test.dir/lab3.cpp.o CMakeFiles/test.dir/lab4.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1
   OBJECT_DIR = CMakeFiles/test.dir
   POST_BUILD = :
   PRE_LINK = :
