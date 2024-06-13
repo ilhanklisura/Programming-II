@@ -55,7 +55,3 @@ Contributions are welcome! If you have any suggestions or improvements, please c
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](https://github.com/ilhanklisura/Programming-II/blob/main/LICENSE) file for more details.
-
----
-
-Happy Coding!
