@@ -1,7 +1,10 @@
 #include <iostream>
 #include <cmath>
 
-using namespace std;
+using std::endl;
+using std::cout;
+using std::string;
+using std::cin;
 
 int main() {
   
@@ -129,8 +132,8 @@ int main() {
   // Question 11
   float angleOne, angleTwo, angleThree; 
 
-  cout << "\n\n Find the third angle of a triangle :\n"; 
-  cout << "-----------------------------------------\n";
+  cout << "\n\n Find the third angle of a triangle: " << endl; 
+  cout << "-----------------------------------------" << endl;
 
   cout << "Input the 1st angle of the triangle: "; 
   cin >> angleOne; 
@@ -146,8 +149,8 @@ int main() {
   // Question 12
   int num = 57;
   
-  cout << "\n\n Display the operation of pre and post increment and decrement :\n";
-  cout << "--------------------------------------------------------------------\n";
+  cout << "Display the operation of pre and post increment and decrement: " << endl;
+  cout << "--------------------------------------------------------------------" << endl;
   cout << "The number is : " << num << endl;
   num++;
     
