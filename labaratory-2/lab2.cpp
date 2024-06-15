@@ -9,7 +9,7 @@ int main() {
   // Question 1
   int number;
 
-  std::cout << "Enter a number: " << endl;
+  cout << "Enter a number: " << endl;
   cin >> number;
 
   if (number > 0 && number <= 20) {
