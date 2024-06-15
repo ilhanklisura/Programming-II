@@ -70,19 +70,19 @@ int main() {
   cout << "The conversion is: " << fahrenheit << endl;
 
   // Question 7
-  int calculus, physics, programming, english;
+  int gradeOne, gradeTwo, gradeThree, gradeFour;
   double averageGrade;
 
   cout << "Enter grade for calculus: ";
-  cin >> calculus;
+  cin >> gradeOne;
   cout << "Enter grade for physics: ";
-  cin >> physics;
+  cin >> gradeTwo;
   cout << "Enter grade for programming: ";
-  cin >> programming;
+  cin >> gradeThree;
   cout << "Enter grade for english: ";
-  cin >> english;
+  cin >> gradeFour;
 
-  averageGrade = (calculus + physics + programming + english) / 4.0;
+  averageGrade = (gradeOne + gradeTwo + gradeThree + gradeFour) / 4.0;
 
   cout << "The average grade is: " << round(averageGrade * 100) / 100 << endl;
 
@@ -171,6 +171,7 @@ int main() {
     
   cout << "After decreasing by 1 the number is : " << num << endl;
   cout << endl;
+
 
   return 0;
 }
