@@ -6,8 +6,6 @@ Welcome to the repository for the "IBU 037 - Programming II" course. This reposi
 
 - [Course Overview](#course-overview)
 - [Course Materials](#course-materials)
-- [Assignments](#assignments)
-- [Projects](#projects)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -17,28 +15,17 @@ This course is designed to provide an in-depth understanding of C++ programming.
 
 ## Course Materials
 
-All the course materials including lecture notes, slides, and reference documents are available in the [course-materials](https://github.com/ilhanklisura/Programming-II/tree/main/course-materials) directory.
-
-## Assignments
-
-Assignments are crucial for understanding the concepts taught in the course. You can find all the assignments in the [assignments](https://github.com/ilhanklisura/Programming-II/tree/main/assignments) directory. Each assignment has its own folder containing the problem statement and the necessary files to get started.
-
-### List of Assignments
-
-1. [Assignment 1: Basic Syntax and Control Structures](https://github.com/ilhanklisura/Programming-II/tree/main/assignments/assignment-1)
-2. [Assignment 2: Functions and Recursion](https://github.com/ilhanklisura/Programming-II/tree/main/assignments/assignment-2)
-3. [Assignment 3: Object-Oriented Programming](https://github.com/ilhanklisura/Programming-II/tree/main/assignments/assignment-3)
-4. [Assignment 4: Data Structures](https://github.com/ilhanklisura/Programming-II/tree/main/assignments/assignment-4)
+All the course materials including lecture notes, slides, and reference documents are available in the [course-materials](https://github.com/ilhanklisura/Programming-II/tree/main/) directory.
 
 ## Projects
 
 Projects are a great way to apply what you have learned and build something meaningful. The [projects](https://github.com/ilhanklisura/Programming-II/tree/main/projects) directory contains various projects that you will work on throughout the course.
 
-### List of Projects
+### List of Projects (To-Do List!)
 
-1. [Project 1: Simple Banking System](https://github.com/ilhanklisura/Programming-II/tree/main/projects/project-1)
-2. [Project 2: Student Management System](https://github.com/ilhanklisura/Programming-II/tree/main/projects/project-2)
-3. [Project 3: Inventory Management System](https://github.com/ilhanklisura/Programming-II/tree/main/projects/project-3)
+1. [Project 1: Simple Banking System]
+2. [Project 2: Student Management System]
+3. [Project 3: Inventory Management System]
 
 ## Contributing
 
