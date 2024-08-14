@@ -7,8 +7,7 @@ Welcome to the repository for the "IBU 037 - Programming II" course. This reposi
 - [Course Overview](#course-overview)
 - [Course Materials](#course-materials)
 - [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Course Overview
 
 This course is designed to provide an in-depth understanding of C++ programming. You will learn various programming concepts, data structures, algorithms, and object-oriented programming principles. By the end of this course, you will be able to write efficient and optimized C++ code for various applications.
@@ -30,15 +29,3 @@ Projects are a great way to apply what you have learned and build something mean
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request.
-
-### Steps to Contribute
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Create a new Pull Request.
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](https://github.com/ilhanklisura/Programming-II/blob/main/LICENSE) file for more details.
